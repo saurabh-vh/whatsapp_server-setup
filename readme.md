@@ -1,4 +1,4 @@
-If you'd prefer to create your own server to host the WhatsApp Business API instead of using a Business Solution Provider (BSP), you’ll need to set up a **WhatsApp Business API Client** on your own server. Meta provides detailed instructions for setting this up, but it can be a bit technical. Here's a step-by-step guide on how to set it up from scratch:
+
 
 ### Step 1: Requirements for Setting Up Your Server
 
